@@ -11,6 +11,9 @@ app.use(express.json());
 mongoose.connect(process.env.MONGO_URL)
   .then(() => console.log('Connected to MongoDB'))
   .catch(err => console.error('Connection error:', err));
+app.get('/', (req, res) => {
+  res.send('Welcome to the Student API');
+});
 // API endpoint to get all students
 app.get('/api/students', async (req, res) => {
   try {
