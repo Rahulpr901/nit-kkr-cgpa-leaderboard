@@ -1,10 +1,11 @@
+require('dotenv').config();
 const mongoose = require("mongoose");
 const cgpamodel = require("./cgmodel");
 const studentsData = require("./students1.json"); // Load JSON file
 // Insert all students
 async function importData() {
   try {
-    await mongoose.connect("mongodb://localhost:27017/studentDB");
+    await mongoose.connect(process.env.MONGO_URL);
     console.log("Connected to MongoDB successfully");
     // Optional: Delete old data
     await cgpamodel.deleteMany({});
