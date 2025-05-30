@@ -1,0 +1,3722 @@
+[
+  {
+    "Roll No": "123103001",
+    "Name": "Devang Meena",
+    "SGPA": "6.5000",
+    "CGPA": 0,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103002",
+    "Name": "Saransh Gupta",
+    "SGPA": "9.4000",
+    "CGPA": 9.3000,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103003",
+    "Name": "Sabavath Ganesh",
+    "SGPA": "8.1500",
+    "CGPA": 0,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103004",
+    "Name": "Dhanavath Manoj",
+    "SGPA": "8.7500",
+    "CGPA": 8.4167,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103005",
+    "Name": "Kush Bohare",
+    "SGPA": "8.8000",
+    "CGPA": 8.8000,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103006",
+    "Name": "Pratik Gond",
+    "SGPA": "8.4500",
+    "CGPA": 0,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103007",
+    "Name": "Shubham Mahile",
+    "SGPA": "8.8500",
+    "CGPA": 8.7333,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103008",
+    "Name": "Pradum Agrawal",
+    "SGPA": "Re. ITPC-207 (End)",
+    "CGPA": 0,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103009",
+    "Name": "Lanka bhavana",
+    "SGPA": "8.4500",
+    "CGPA": 0,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103010",
+    "Name": "Gaurav Uniyal",
+    "SGPA": "8.6500",
+    "CGPA": 7.6500,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103011",
+    "Name": "Rishu Ranjan",
+    "SGPA": "6.3000",
+    "CGPA": 0,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103012",
+    "Name": "Kurakula Lenin Kumar",
+    "SGPA": "7.9000",
+    "CGPA": 0,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103013",
+    "Name": "Divya",
+    "SGPA": "7.2500",
+    "CGPA": 0,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103014",
+    "Name": "Nenavath Sushpal",
+    "SGPA": "8.0500",
+    "CGPA": 0,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103015",
+    "Name": "Ingale Srushti Vijayrao",
+    "SGPA": "7.2500",
+    "CGPA": 0,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103016",
+    "Name": "Shilpa Singh Namoliya",
+    "SGPA": "7.4500",
+    "CGPA": 0,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103017",
+    "Name": "Mukesh Kumar",
+    "SGPA": "8.9500",
+    "CGPA": 8.6667,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103019",
+    "Name": "Bablu Prajapati",
+    "SGPA": "8.7000",
+    "CGPA": 8.6333,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103020",
+    "Name": "Kunal Gautam",
+    "SGPA": "8.5500",
+    "CGPA": 7.9000,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103021",
+    "Name": "Puranpal Singh",
+    "SGPA": "9.4000",
+    "CGPA": 9.2833,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103022",
+    "Name": "Aman Kumar Sharma",
+    "SGPA": "7.2000",
+    "CGPA": 0,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103023",
+    "Name": "Manish Kumar",
+    "SGPA": "7.9000",
+    "CGPA": 7.7333,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103024",
+    "Name": "Hardik",
+    "SGPA": "7.7500",
+    "CGPA": 0,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103025",
+    "Name": "Jayant Kumar",
+    "SGPA": "8.7000",
+    "CGPA": 7.7833,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103026",
+    "Name": "Suraj Kumar",
+    "SGPA": "8.5500",
+    "CGPA": 7.8000,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103027",
+    "Name": "Kartik Kharodh",
+    "SGPA": "9.3000",
+    "CGPA": 8.5500,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103028",
+    "Name": "Dilip Kumar Ram",
+    "SGPA": "8.3000",
+    "CGPA": 7.9500,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103029",
+    "Name": "Aalok Kumar",
+    "SGPA": "8.0500",
+    "CGPA": 7.2333,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103030",
+    "Name": "Devansh",
+    "SGPA": "8.8500",
+    "CGPA": 8.4333,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103031",
+    "Name": "Harsh",
+    "SGPA": "Re. MAIC-201 (Int + End) ITPC-201 (Int + End) ITPC-203 (Int + End) ITPC-205 (Int + End) ITPC-207 (Int + End) ITPC-209 (Int + End)",
+    "CGPA": 0,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103032",
+    "Name": "Dhruv",
+    "SGPA": "9.3000",
+    "CGPA": 8.9333,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103033",
+    "Name": "Yogesh Malik",
+    "SGPA": "8.0500",
+    "CGPA": 7.4667,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103034",
+    "Name": "Akshat Gorsi",
+    "SGPA": "8.0000",
+    "CGPA": 7.7833,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103035",
+    "Name": "Bembade Tejas Baban",
+    "SGPA": "8.1000",
+    "CGPA": 0,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103036",
+    "Name": "Aditya Raj",
+    "SGPA": "9.1000",
+    "CGPA": 0,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103037",
+    "Name": "Aryan",
+    "SGPA": "8.4500",
+    "CGPA": 8.1167,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103038",
+    "Name": "Ayush Narwal",
+    "SGPA": "8.9000",
+    "CGPA": 8.4500,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103039",
+    "Name": "Sahil",
+    "SGPA": "8.9000",
+    "CGPA": 8.6000,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103040",
+    "Name": "Rahul Kumar",
+    "SGPA": "8.9500",
+    "CGPA": 7.6833,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103041",
+    "Name": "Jatin Kumar",
+    "SGPA": "8.0500",
+    "CGPA": 7.7333,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103042",
+    "Name": "Minakshi",
+    "SGPA": "7.6000",
+    "CGPA": 7.7333,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103043",
+    "Name": "Majji.sri Lokesh Adi",
+    "SGPA": "8.5000",
+    "CGPA": 8.0667,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103044",
+    "Name": "Jaskirat Singh",
+    "SGPA": "7.8500",
+    "CGPA": 8.0167,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103045",
+    "Name": "Pratham",
+    "SGPA": "8.4500",
+    "CGPA": 7.7500,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103046",
+    "Name": "Hemant Kumawat",
+    "SGPA": "8.5500",
+    "CGPA": 8.2833,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103047",
+    "Name": "Sejal Aryan",
+    "SGPA": "8.9000",
+    "CGPA": 8.7833,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103048",
+    "Name": "Chirag Saini",
+    "SGPA": "8.6500",
+    "CGPA": 8.6167,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103049",
+    "Name": "Pankaj",
+    "SGPA": "Re, MAIC-201 (Int + End) ITPC-201 (Int + End) ITPC-203 (End) ITPC-205 (Int + End) ITPC-207 (End) ITPC-209 (Int + End)",
+    "CGPA": 0,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103050",
+    "Name": "Deepesh Yadav",
+    "SGPA": "7.7000",
+    "CGPA": 7.2833,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103051",
+    "Name": "Safal Singh",
+    "SGPA": "8.7500",
+    "CGPA": 8.3500,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103052",
+    "Name": "Hemant Kumar",
+    "SGPA": "8.6500",
+    "CGPA": 0,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103053",
+    "Name": "Arun",
+    "SGPA": "8.1000",
+    "CGPA": 0,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103054",
+    "Name": "Nishant",
+    "SGPA": "9.3500",
+    "CGPA": 8.5333,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103055",
+    "Name": "Gagandeep Singh",
+    "SGPA": "9.2000",
+    "CGPA": 8.4333,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103056",
+    "Name": "Mohit Yadav",
+    "SGPA": "8.2500",
+    "CGPA": 0,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103057",
+    "Name": "Sahil",
+    "SGPA": "8.7500",
+    "CGPA": 8.3833,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103058",
+    "Name": "Nasib",
+    "SGPA": "8.5000",
+    "CGPA": 7.7167,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103059",
+    "Name": "Anshika Yadav",
+    "SGPA": "9.2500",
+    "CGPA": 8.8500,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103060",
+    "Name": "Pragya Chaurasia",
+    "SGPA": "8.0000",
+    "CGPA": 0,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103061",
+    "Name": "Anshul",
+    "SGPA": "8.1500",
+    "CGPA": 0,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103062",
+    "Name": "Jahnavi",
+    "SGPA": "8.2500",
+    "CGPA": 7.8000,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103063",
+    "Name": "Janvi",
+    "SGPA": "8.4500",
+    "CGPA": 7.7167,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103064",
+    "Name": "Kavyanjali Yadav",
+    "SGPA": "8.6000",
+    "CGPA": 8.3000,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103065",
+    "Name": "Adigoppula Chandana Sree",
+    "SGPA": "7.9500",
+    "CGPA": 7.5000,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103066",
+    "Name": "Abhay Choudhary",
+    "SGPA": "8.3500",
+    "CGPA": 8.3833,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103067",
+    "Name": "Vandana",
+    "SGPA": "8.4000",
+    "CGPA": 8.9667,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103068",
+    "Name": "Mudit Garg",
+    "SGPA": "8.6000",
+    "CGPA": 8.5000,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103069",
+    "Name": "Riya Raj",
+    "SGPA": "8.8500",
+    "CGPA": 8.7667,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103070",
+    "Name": "Anubhav",
+    "SGPA": "8.5000",
+    "CGPA": 8.2667,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103071",
+    "Name": "Arnav Sharma",
+    "SGPA": "9.0500",
+    "CGPA": 9.0000,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103072",
+    "Name": "Harsh Tiwari",
+    "SGPA": "9.2000",
+    "CGPA": 8.8333,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103073",
+    "Name": "Abhay Agarwal",
+    "SGPA": "8.7000",
+    "CGPA": 8.0667,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103074",
+    "Name": "Shubham Kumar Singh",
+    "SGPA": "9.2000",
+    "CGPA": 9.2333,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103075",
+    "Name": "Soumil Jain",
+    "SGPA": "8.2500",
+    "CGPA": 8.1167,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103076",
+    "Name": "Abhinav Syunary",
+    "SGPA": "8.9000",
+    "CGPA": 8.8333,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103077",
+    "Name": "Shubhanshu Kumar Sah",
+    "SGPA": "6.5000",
+    "CGPA": 0,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103078",
+    "Name": "Tanishk Goyal",
+    "SGPA": "9.1000",
+    "CGPA": 8.7333,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103079",
+    "Name": "Suyash Shukla",
+    "SGPA": "7.4000",
+    "CGPA": 7.8000,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103080",
+    "Name": "Raisen Hansdah",
+    "SGPA": "Re. ITPC-201 (End)",
+    "CGPA": 0,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103081",
+    "Name": "Narayanasethy Meher Chandrakanth",
+    "SGPA": "7.4500",
+    "CGPA": 7.4333,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103082",
+    "Name": "Prashant Solankey",
+    "SGPA": "8.1500",
+    "CGPA": 8.0333,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103083",
+    "Name": "Ranbir Singh",
+    "SGPA": "9.8000",
+    "CGPA": 9.5833,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103085",
+    "Name": "Krishna Verma",
+    "SGPA": "8.8500",
+    "CGPA": 8.7333,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103086",
+    "Name": "Chirag Aggarwal",
+    "SGPA": "9.1000",
+    "CGPA": 9.1333,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103087",
+    "Name": "Ravindra Prajapat",
+    "SGPA": "8.1500",
+    "CGPA": 7.9667,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103088",
+    "Name": "Tanisha",
+    "SGPA": "9.4500",
+    "CGPA": 9.4333,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103089",
+    "Name": "Kartik Vats",
+    "SGPA": "8.8500",
+    "CGPA": 8.8000,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103090",
+    "Name": "Dhirendra Krishna Gupta",
+    "SGPA": "9.3000",
+    "CGPA": 9.2667,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103091",
+    "Name": "Shloka Jha",
+    "SGPA": "9.1500",
+    "CGPA": 8.6000,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103092",
+    "Name": "Vinay Kharb",
+    "SGPA": "7.9500",
+    "CGPA": 0,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103093",
+    "Name": "Mayank",
+    "SGPA": "9.1000",
+    "CGPA": 9.1667,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103094",
+    "Name": "Shradha Sharma",
+    "SGPA": "8.6000",
+    "CGPA": 8.7833,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103095",
+    "Name": "Rajan Kumar Yadav",
+    "SGPA": "8.9000",
+    "CGPA": 8.4000,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103096",
+    "Name": "Piyush",
+    "SGPA": "9.0500",
+    "CGPA": 9.0667,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103097",
+    "Name": "Himank Gupta",
+    "SGPA": "9.1500",
+    "CGPA": 9.1833,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103098",
+    "Name": "Ayush Gupta",
+    "SGPA": "9.1500",
+    "CGPA": 9.1333,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103099",
+    "Name": "Avin Chaudhary",
+    "SGPA": "9.3500",
+    "CGPA": 9.2000,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103100",
+    "Name": "Devansh Sethi",
+    "SGPA": "9.3500",
+    "CGPA": 9.2500,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103101",
+    "Name": "Malavika Gupta",
+    "SGPA": "9.0000",
+    "CGPA": 0,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103102",
+    "Name": "Divyansh Mishra",
+    "SGPA": "8.4500",
+    "CGPA": 8.1833,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103103",
+    "Name": "Manush Mehta",
+    "SGPA": "9.2500",
+    "CGPA": 9.1500,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103104",
+    "Name": "Adarsh Vishwakarma",
+    "SGPA": "8.5000",
+    "CGPA": 8.3833,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103105",
+    "Name": "Vansh Agrawal",
+    "SGPA": "9.4500",
+    "CGPA": 9.4833,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103106",
+    "Name": "Rishul Gupta",
+    "SGPA": "7.7500",
+    "CGPA": 7.7167,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103107",
+    "Name": "Swayam Singh",
+    "SGPA": "8.5000",
+    "CGPA": 0,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103108",
+    "Name": "Sahil",
+    "SGPA": "9.8500",
+    "CGPA": 9.4667,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103109",
+    "Name": "Aaditya Nigam",
+    "SGPA": "9.4500",
+    "CGPA": 9.3333,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103110",
+    "Name": "Abhinav Garg",
+    "SGPA": "9.6000",
+    "CGPA": 9.2500,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103111",
+    "Name": "Lavya Sheokand",
+    "SGPA": "8.8000",
+    "CGPA": 8.6833,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103112",
+    "Name": "Akhil Rathour",
+    "SGPA": "8.3500",
+    "CGPA": 8.1167,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103113",
+    "Name": "Khushi S",
+    "SGPA": "9.5000",
+    "CGPA": 9.5333,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103114",
+    "Name": "Nandyala Shivani",
+    "SGPA": "7.5500",
+    "CGPA": 7.4000,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103115",
+    "Name": "Deepak",
+    "SGPA": "8.9500",
+    "CGPA": 9.0500,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103116",
+    "Name": "Nitya Matta",
+    "SGPA": "8.2500",
+    "CGPA": 0,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103117",
+    "Name": "Ritesh Singh",
+    "SGPA": "8.6000",
+    "CGPA": 8.4667,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103118",
+    "Name": "Priya",
+    "SGPA": "8.3500",
+    "CGPA": 8.4667,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103119",
+    "Name": "Shoumik Sharma",
+    "SGPA": "9.6000",
+    "CGPA": 9.5333,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103120",
+    "Name": "Sumit Agarwal",
+    "SGPA": "8.4500",
+    "CGPA": 8.7500,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103121",
+    "Name": "Kaushiki Vashisth Basedia",
+    "SGPA": "8.7500",
+    "CGPA": 8.8167,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103122",
+    "Name": "Ishant Agarwal",
+    "SGPA": "7.6000",
+    "CGPA": 7.6833,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103123",
+    "Name": "Deepak Thakur",
+    "SGPA": "7.8500",
+    "CGPA": 8.1167,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103124",
+    "Name": "Aher Shivam Madhukar",
+    "SGPA": "8.5000",
+    "CGPA": 8.6667,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103125",
+    "Name": "Kirti",
+    "SGPA": "9.5000",
+    "CGPA": 9.4833,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103126",
+    "Name": "Radhika Jindal",
+    "SGPA": "9.4000",
+    "CGPA": 9.1667,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103127",
+    "Name": "Narayan Kumar Pratik",
+    "SGPA": "8.5500",
+    "CGPA": 8.6333,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103128",
+    "Name": "Shivam Thapliyal",
+    "SGPA": "8.1000",
+    "CGPA": 8.0667,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103129",
+    "Name": "Anish",
+    "SGPA": "7.1000",
+    "CGPA": 7.3167,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103130",
+    "Name": "Raghav Chauhan",
+    "SGPA": "8.8000",
+    "CGPA": 8.6167,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103131",
+    "Name": "Ravi Kumar",
+    "SGPA": "8.6500",
+    "CGPA": 8.6000,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103132",
+    "Name": "Ankita Tripathy",
+    "SGPA": "8.6500",
+    "CGPA": 8.7333,
+    "Branch": "IT",
+    "Year": 2023
+  },
+{
+    "Roll No": "123103133",
+    "Name": "Kshitij",
+    "SGPA": "7.4500",
+    "CGPA": 7.5,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103134",
+    "Name": "Ridhima",
+    "SGPA": "9.0000",
+    "CGPA": 9.1,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103135",
+    "Name": "Maneesh Kumar",
+    "SGPA": "9.0500",
+    "CGPA": 9.1,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103136",
+    "Name": "Petla Thammaya Shriram",
+    "SGPA": "8.3500",
+    "CGPA": 8.4,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103137",
+    "Name": "Adarsh Shukla",
+    "SGPA": "8.8500",
+    "CGPA": 8.9,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103138",
+    "Name": "Palak Jilender Goyal",
+    "SGPA": "8.5500",
+    "CGPA": 8.6,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103139",
+    "Name": "Aman Chaurasiya",
+    "SGPA": "8.6500",
+    "CGPA": 8.7,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123103140",
+    "Name": "Aastha Verma",
+    "SGPA": "8.6000",
+    "CGPA": 8.7,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123303001",
+    "Name": "Surya Kalimuthu",
+    "SGPA": "7.0500",
+    "CGPA": 7.1,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123303002",
+    "Name": "Neha Roy",
+    "SGPA": "7.7500",
+    "CGPA": 7.8,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123303003",
+    "Name": "Aditya Kumar",
+    "SGPA": "0",
+    "CGPA": 0.0,
+    "Branch": "IT",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108001",
+    "Name": "Sabavat Manoj Chauhan",
+    "SGPA": "7.6111",
+    "CGPA": 7.1370,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108002",
+    "Name": "Lokesh Mudgal",
+    "SGPA": "9.1667",
+    "CGPA": 9.0556,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108003",
+    "Name": "Kamalla Dinesh",
+    "SGPA": "Re. MAIC-205 (End) AIPC-203 (End)",
+    "CGPA": 0,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108004",
+    "Name": "Tanish",
+    "SGPA": "6.6667",
+    "CGPA": 6.9722,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108005",
+    "Name": "Abhinav Shivkumar Ovhal",
+    "SGPA": "7.8889",
+    "CGPA": 7.7463,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108006",
+    "Name": "Swamil Subodh",
+    "SGPA": "6.4444",
+    "CGPA": 6.6981,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108007",
+    "Name": "Zafii Khan",
+    "SGPA": "7.2778",
+    "CGPA": 7.0259,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108008",
+    "Name": "Rakshit",
+    "SGPA": "7.2222",
+    "CGPA": 7.7417,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108009",
+    "Name": "Piyush Raj",
+    "SGPA": "7.8889",
+    "CGPA": 7.8463,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108010",
+    "Name": "Shikhar",
+    "SGPA": "Re. AIPC-203 (End)",
+    "CGPA": 0,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108011",
+    "Name": "Uday Veer",
+    "SGPA": "9.7778",
+    "CGPA": 9.3926,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108012",
+    "Name": "Saptajeet Mukherjee",
+    "SGPA": "6.0000",
+    "CGPA": 6.9667,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108013",
+    "Name": "Harsh Panchal",
+    "SGPA": "8.1111",
+    "CGPA": 7.9037,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108014",
+    "Name": "Sumit Kumar",
+    "SGPA": "7.9444",
+    "CGPA": 8.3481,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108015",
+    "Name": "Puwala Geetham",
+    "SGPA": "7.1667",
+    "CGPA": 6.8056,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108016",
+    "Name": "Divya",
+    "SGPA": "9.3333",
+    "CGPA": 8.9778,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108017",
+    "Name": "Jaiveer",
+    "SGPA": "7.0000",
+    "CGPA": 6.8833,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108018",
+    "Name": "Modepu Tejanand",
+    "SGPA": "5.6667",
+    "CGPA": 5.9556,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108019",
+    "Name": "Sambhav Singh",
+    "SGPA": "8.9444",
+    "CGPA": 8.8315,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108020",
+    "Name": "Sachin",
+    "SGPA": "Re. AIPC-205 (End)",
+    "CGPA": 0,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108021",
+    "Name": "Sahil",
+    "SGPA": "6.0000",
+    "CGPA": 6.0667,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108022",
+    "Name": "Shubham Baghel",
+    "SGPA": "7.7222",
+    "CGPA": 7.2741,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108023",
+    "Name": "Tanishka Jayant",
+    "SGPA": "Re. AIPC-203 (End)",
+    "CGPA": 0,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108024",
+    "Name": "Vansh Hari",
+    "SGPA": "8.8889",
+    "CGPA": 9.1296,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108025",
+    "Name": "Ronit Yadav",
+    "SGPA": "8.9444",
+    "CGPA": 7.9815,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108026",
+    "Name": "Neetu Mina",
+    "SGPA": "Re. MAIC-205 (End) AIPC-203 (End) AIPC-205 (End)",
+    "CGPA": 0,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108027",
+    "Name": "Nitesh",
+    "SGPA": "8.7222",
+    "CGPA": 8.8648,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108028",
+    "Name": "Nancy Shakya",
+    "SGPA": "7.6111",
+    "CGPA": 7.8926,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108029",
+    "Name": "Muskan",
+    "SGPA": "8.1111",
+    "CGPA": 8.3056,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108030",
+    "Name": "Venkatesh Shukla",
+    "SGPA": "8.7778",
+    "CGPA": 8.9926,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108031",
+    "Name": "Satyam Kumar Chauhan",
+    "SGPA": "9.3333",
+    "CGPA": 8.8111,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108032",
+    "Name": "Devansh Singhal",
+    "SGPA": "9.5556",
+    "CGPA": 9.1685,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108034",
+    "Name": "Aditya Rai",
+    "SGPA": "8.7222",
+    "CGPA": 8.5648,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108035",
+    "Name": "Mohit Meena",
+    "SGPA": "7.0000",
+    "CGPA": 7.4833,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108036",
+    "Name": "Lucky Garg",
+    "SGPA": "8.6667",
+    "CGPA": 8.5278,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108037",
+    "Name": "Ayush Sur",
+    "SGPA": "9.5556",
+    "CGPA": 9.3037,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108038",
+    "Name": "Hardik Singh Chauhan",
+    "SGPA": "6.8889",
+    "CGPA": 6.6630,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108039",
+    "Name": "Jayant Gautam",
+    "SGPA": "9.1667",
+    "CGPA": 8.8204,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108040",
+    "Name": "Vijay Singh",
+    "SGPA": "8.3333",
+    "CGPA": 7.9111,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108041",
+    "Name": "Dikshant Kumar",
+    "SGPA": "8.3333",
+    "CGPA": 8.2056,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108042",
+    "Name": "Anuj Kumar Sharma",
+    "SGPA": "8.6667",
+    "CGPA": 8.4389,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108043",
+    "Name": "Aditya Kapila",
+    "SGPA": "8.8889",
+    "CGPA": 8.5626,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108044",
+    "Name": "Sneha Chauhan",
+    "SGPA": "9.3333",
+    "CGPA": 9.0611,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108045",
+    "Name": "Anurag Jaiswal",
+    "SGPA": "Re. AIPC-203 (End)",
+    "CGPA": 0,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108046",
+    "Name": "Ayush Singhal",
+    "SGPA": "9.5556",
+    "CGPA": 9.2352,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108047",
+    "Name": "Lavanya Jain",
+    "SGPA": "8.4444",
+    "CGPA": 8.5481,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108048",
+    "Name": "Katakam Sowmya",
+    "SGPA": "8.7222",
+    "CGPA": 7.5907,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108049",
+    "Name": "Anshika Sharma",
+    "SGPA": "9.1111",
+    "CGPA": 8.8870,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108050",
+    "Name": "Karan Tekchandani",
+    "SGPA": "8.8889",
+    "CGPA": 8.5630,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108051",
+    "Name": "Aitha Samskruthi",
+    "SGPA": "8.6667",
+    "CGPA": 8.4056,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108052",
+    "Name": "Nishika Agarwal",
+    "SGPA": "9.5556",
+    "CGPA": 8.6852,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108053",
+    "Name": "Banavath Shashi Rekha",
+    "SGPA": "8.2778",
+    "CGPA": 7.7593,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108054",
+    "Name": "Vivek Kumar",
+    "SGPA": "7.0000",
+    "CGPA": 7.3500,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108055",
+    "Name": "Mukul",
+    "SGPA": "5.8889",
+    "CGPA": 5.9259,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108056",
+    "Name": "Pyata Harshith",
+    "SGPA": "9.5556",
+    "CGPA": 9.3352,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123108057",
+    "Name": "Anshika Chaudhary",
+    "SGPA": "8.1667",
+    "CGPA": 8.1889,
+    "Branch": "AIML",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110001",
+    "Name": "Priyanshu Lakwal",
+    "SGPA": "7.4546",
+    "CGPA": 7.3849,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110002",
+    "Name": "Anurag Kumar",
+    "SGPA": "Re. HSIC 101 (Int + End) MAIC 101 (Int + End) PHIC 101 (Int + End) MEIC 102 (Int + End) CSIC 103 (Int + End) CHIC 101 (Int + End)HSNC 101(Int)",
+    "CGPA": 0,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110003",
+    "Name": "Yashvardhan",
+    "SGPA": "7.2727",
+    "CGPA": 0,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110004",
+    "Name": "Lakashay Jain",
+    "SGPA": "7.0909",
+    "CGPA": 7.1203,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110005",
+    "Name": "Sapna",
+    "SGPA": "8.3636",
+    "CGPA": 7.6212,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110006",
+    "Name": "Kush",
+    "SGPA": "7.9091",
+    "CGPA": 7.7697,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110007",
+    "Name": "Wankhede Om Rameshwar",
+    "SGPA": "8.5909",
+    "CGPA": 7.9303,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110008",
+    "Name": "Keshav Dhingra",
+    "SGPA": "6.7273",
+    "CGPA": 7.2758,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110009",
+    "Name": "Keshav",
+    "SGPA": "6.7273",
+    "CGPA": 0,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110010",
+    "Name": "Ankeshwar Raj",
+    "SGPA": "8.9091",
+    "CGPA": 8.4197,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110011",
+    "Name": "Shweta Kumari",
+    "SGPA": "8.4091",
+    "CGPA": 7.5697,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110012",
+    "Name": "Rachit",
+    "SGPA": "7.0000",
+    "CGPA": 6.6500,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110013",
+    "Name": "Sachin",
+    "SGPA": "8.0909",
+    "CGPA": 7.7136,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110014",
+    "Name": "Himanshu Chauhan",
+    "SGPA": "9.4091",
+    "CGPA": 8.4697,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110015",
+    "Name": "Pramod",
+    "SGPA": "9.1818",
+    "CGPA": 8.6273,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110016",
+    "Name": "Rishabh Sharma",
+    "SGPA": "9.3636",
+    "CGPA": 9.2545,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110017",
+    "Name": "Abhinav",
+    "SGPA": "8.1818",
+    "CGPA": 8.0606,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110018",
+    "Name": "Khushi Jangid",
+    "SGPA": "9.0455",
+    "CGPA": 8.3636,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110019",
+    "Name": "Akansha Patel",
+    "SGPA": "10.0000",
+    "CGPA": 9.7000,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110020",
+    "Name": "Manpreet Singh",
+    "SGPA": "9.1818",
+    "CGPA": 0,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110021",
+    "Name": "Shikhar Gupta",
+    "SGPA": "9.3636",
+    "CGPA": 9.3712,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110022",
+    "Name": "Nanshi",
+    "SGPA": "9.3636",
+    "CGPA": 9.2879,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110023",
+    "Name": "Rishabh Jain",
+    "SGPA": "9.4091",
+    "CGPA": 8.7864,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110024",
+    "Name": "Sanskar Aggarwal",
+    "SGPA": "10.0000",
+    "CGPA": 9.7167,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110025",
+    "Name": "Bhuvan Sharma",
+    "SGPA": "7.6364",
+    "CGPA": 7.9470,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110026",
+    "Name": "Gourav Batra",
+    "SGPA": "8.8636",
+    "CGPA": 8.3712,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110027",
+    "Name": "Anushika Jindal",
+    "SGPA": "9.0455",
+    "CGPA": 8.9485,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110028",
+    "Name": "Goutam Khandelwal",
+    "SGPA": "9.3636",
+    "CGPA": 8.9545,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110029",
+    "Name": "Rishab",
+    "SGPA": "9.1818",
+    "CGPA": 8.7442,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110030",
+    "Name": "Satyam Jalvi",
+    "SGPA": "9.5455",
+    "CGPA": 9.1136,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110031",
+    "Name": "Raghav Gupta",
+    "SGPA": "7.2727",
+    "CGPA": 7.4076,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110032",
+    "Name": "Sanchi",
+    "SGPA": "8.1818",
+    "CGPA": 8.3409,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110033",
+    "Name": "Manik Chauhan",
+    "SGPA": "9.5455",
+    "CGPA": 9.4318,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110034",
+    "Name": "Devansh",
+    "SGPA": "9.8636",
+    "CGPA": 9.4545,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110035",
+    "Name": "Appari Mani Harsha Vardhan",
+    "SGPA": "9.2273",
+    "CGPA": 8.4348,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110036",
+    "Name": "Rohan Machindra Surwase",
+    "SGPA": "8.0000",
+    "CGPA": 8.3667,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110037",
+    "Name": "Vemuri Harshini",
+    "SGPA": "7.9091",
+    "CGPA": 7.4030,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110038",
+    "Name": "Gitansh Goel",
+    "SGPA": "9.8636",
+    "CGPA": 9.5379,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110039",
+    "Name": "Rehan",
+    "SGPA": "8.7273",
+    "CGPA": 8.8379,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110040",
+    "Name": "Srijan Singh",
+    "SGPA": "9.3636",
+    "CGPA": 9.1545,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110041",
+    "Name": "Rajveer Pathak",
+    "SGPA": "9.5000",
+    "CGPA": 8.6833,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110042",
+    "Name": "Naman Kumar Gupta",
+    "SGPA": "9.5000",
+    "CGPA": 9.5500,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110043",
+    "Name": "Sarthak Chaturvedi",
+    "SGPA": "9.8636",
+    "CGPA": 9.3545,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110044",
+    "Name": "Khushi Yadav",
+    "SGPA": "8.0909",
+    "CGPA": 7.5136,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110045",
+    "Name": "Yashwant Singh Sonwaniya",
+    "SGPA": "6.9091",
+    "CGPA": 6.9030,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110046",
+    "Name": "Ramanaraja Kesavaraja",
+    "SGPA": "7.7273",
+    "CGPA": 7.7121,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110047",
+    "Name": "Gugulavath Jayavardhan Nayak",
+    "SGPA": "Re. CSPC-205 (End)",
+    "CGPA": 0,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110048",
+    "Name": "Aman",
+    "SGPA": "6.0000",
+    "CGPA": 5.9167,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110049",
+    "Name": "Ambi Rithwik Sai",
+    "SGPA": "4.7273",
+    "CGPA": 0,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110050",
+    "Name": "Manajipeta Sri Varshini Reddy",
+    "SGPA": "8.0909",
+    "CGPA": 7.8136,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110051",
+    "Name": "Gungun Aggarwal",
+    "SGPA": "8.2727",
+    "CGPA": 7.4076,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110052",
+    "Name": "Sahil Dattu Mandalwar",
+    "SGPA": "9.1818",
+    "CGPA": 9.0606,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110053",
+    "Name": "Narayan Ram",
+    "SGPA": "6.0000",
+    "CGPA": 6.4333,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110054",
+    "Name": "Sneha Beifawat",
+    "SGPA": "6.0909",
+    "CGPA": 0,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110055",
+    "Name": "Mayank",
+    "SGPA": "7.8182",
+    "CGPA": 7.1061,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110056",
+    "Name": "Kashish Chandra",
+    "SGPA": "5.7273",
+    "CGPA": 0,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123110057",
+    "Name": "Lalbiakhlua",
+    "SGPA": "5.7273",
+    "CGPA": 6.1591,
+    "Branch": "MnC",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102001",
+    "Name": "Dhruv Pathak",
+    "SGPA": "9.3500",
+    "CGPA": 8.4,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102002",
+    "Name": "Sushil",
+    "SGPA": "8.4000",
+    "CGPA": 7.583333333333333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102003",
+    "Name": "Nethavath Swathi",
+    "SGPA": "6.0000",
+    "CGPA": 0,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102004",
+    "Name": "Harshdeep",
+    "SGPA": "7.0500",
+    "CGPA": 0,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102005",
+    "Name": "Mohammad Rahil",
+    "SGPA": "9.2000",
+    "CGPA": 9.033333333333333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102006",
+    "Name": "Aakash",
+    "SGPA": "8.9000",
+    "CGPA": 7.5,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102007",
+    "Name": "Jagadampelli Rushendra",
+    "SGPA": "9.6500",
+    "CGPA": 9.45,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102008",
+    "Name": "Minakshi",
+    "SGPA": "Re. MAIC-201 (End) CSPC-201 (Int + End) CSPC-203 (Int + End) CSPC-205 (End) CSPC-207 (End)",
+    "CGPA": 0,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102009",
+    "Name": "Mamta",
+    "SGPA": "7.8500",
+    "CGPA": 7.8,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102010",
+    "Name": "Adarsh Singh",
+    "SGPA": "8.0500",
+    "CGPA": 7.65,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102011",
+    "Name": "Kanak Saini",
+    "SGPA": "Re. CSPC-203 (End)",
+    "CGPA": 0,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102012",
+    "Name": "Himanshu Singh",
+    "SGPA": "5.6000",
+    "CGPA": 0,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102013",
+    "Name": "Nitesh Yadav",
+    "SGPA": "7.4500",
+    "CGPA": 7.183333333333334,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102014",
+    "Name": "Asha Kumari",
+    "SGPA": "Re. CSPC-203 (End) CSPC-209 (Int)",
+    "CGPA": 0,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102015",
+    "Name": "Harsh Bhatnagar",
+    "SGPA": "8.8500",
+    "CGPA": 8.566666666666666,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102016",
+    "Name": "Ankit Jatav",
+    "SGPA": "Re. CSPC-207 (End) CSPC-209 (End)",
+    "CGPA": 0,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102017",
+    "Name": "Suhas H D",
+    "SGPA": "Re. CSPC-201 (Int + End) CSPC-203 (End) CSPC-205 (Int + End) CSPC-207 (End)",
+    "CGPA": 0,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102018",
+    "Name": "Palthiya Narayana Swamy Naik",
+    "SGPA": "Re. CSPC-203 (End) CSPC-205 (End) CSPC-207 (End)",
+    "CGPA": 0,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102019",
+    "Name": "Lokesh",
+    "SGPA": "8.8000",
+    "CGPA": 8.35,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102020",
+    "Name": "Chhayansh",
+    "SGPA": "Re. CSPC-203 (End)",
+    "CGPA": 0,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102021",
+    "Name": "Kapil",
+    "SGPA": "9.5500",
+    "CGPA": 9.15,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102022",
+    "Name": "Vansh Gupta",
+    "SGPA": "9.4500",
+    "CGPA": 9.116666666666667,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102023",
+    "Name": "Aditya Rao",
+    "SGPA": "9.0500",
+    "CGPA": 8.616666666666667,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102024",
+    "Name": "Deepak",
+    "SGPA": "8.3000",
+    "CGPA": 7.8,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102025",
+    "Name": "Kajal Meena",
+    "SGPA": "7.8500",
+    "CGPA": 7.45,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102026",
+    "Name": "Rachit Raj Singh",
+    "SGPA": "8.8000",
+    "CGPA": 7.933333333333334,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102027",
+    "Name": "Narayan Meena",
+    "SGPA": "5.5000",
+    "CGPA": 0,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102028",
+    "Name": "Chennareddygari Someswar Reddy",
+    "SGPA": "Re. CSPC-203 (End) CSPC-205 (End) CSPC-207 (End)",
+    "CGPA": 0,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102029",
+    "Name": "Pranjal",
+    "SGPA": "7.4000",
+    "CGPA": 7.833333333333333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102030",
+    "Name": "Harshit Singh",
+    "SGPA": "Re. CSPC-209 (End)",
+    "CGPA": 0,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102031",
+    "Name": "Sakshi Pakad",
+    "SGPA": "Re. CSPC-203 (End)",
+    "CGPA": 0,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102032",
+    "Name": "Yash Shakya",
+    "SGPA": "8.8000",
+    "CGPA": 7.933333333333334,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102033",
+    "Name": "Satyam Kesharwani",
+    "SGPA": "9.2500",
+    "CGPA": 9.033333333333333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102034",
+    "Name": "Vivek Kumar",
+    "SGPA": "8.1000",
+    "CGPA": 7.0,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102035",
+    "Name": "Gajal",
+    "SGPA": "9.3500",
+    "CGPA": 9.25,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102036",
+    "Name": "Himanshu",
+    "SGPA": "7.8000",
+    "CGPA": 7.566666666666666,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102037",
+    "Name": "Tushar Singh",
+    "SGPA": "7.2500",
+    "CGPA": 7.1,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102038",
+    "Name": "Priyansh Raj",
+    "SGPA": "7.5500",
+    "CGPA": 7.433333333333334,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102039",
+    "Name": "Ashish Kumar Yadav",
+    "SGPA": "7.7500",
+    "CGPA": 7.5,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102040",
+    "Name": "Aditi Bharti",
+    "SGPA": "8.5000",
+    "CGPA": 7.8,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102041",
+    "Name": "Nitish Kumar",
+    "SGPA": "7.7000",
+    "CGPA": 7.216666666666667,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102042",
+    "Name": "Yashika Choudhary",
+    "SGPA": "9.4500",
+    "CGPA": 9.033333333333333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102043",
+    "Name": "Prajna Asati",
+    "SGPA": "8.9500",
+    "CGPA": 8.4,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102044",
+    "Name": "Abhishek Kumar Sah",
+    "SGPA": "9.0000",
+    "CGPA": 8.733333333333333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102045",
+    "Name": "Ayush Bhagat",
+    "SGPA": "9.4500",
+    "CGPA": 9.3,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102046",
+    "Name": "Nancy Goel",
+    "SGPA": "9.0000",
+    "CGPA": 8.45,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102047",
+    "Name": "Lakshay Mehra",
+    "SGPA": "6.0500",
+    "CGPA": 0,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102048",
+    "Name": "Saumya",
+    "SGPA": "9.1000",
+    "CGPA": 8.583333333333334,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102049",
+    "Name": "Ronit Kumar",
+    "SGPA": "6.7500",
+    "CGPA": 0,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102050",
+    "Name": "Ramkrishna Naskar",
+    "SGPA": "Re. CSPC-203 (End)",
+    "CGPA": 0,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102051",
+    "Name": "Amarjeet",
+    "SGPA": "8.7000",
+    "CGPA": 7.683333333333334,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102052",
+    "Name": "Deepak Kumar",
+    "SGPA": "8.0000",
+    "CGPA": 7.833333333333333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102053",
+    "Name": "Kumar Sundram",
+    "SGPA": "8.0500",
+    "CGPA": 8.416666666666666,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102054",
+    "Name": "Sanjana Meena",
+    "SGPA": "8.2500",
+    "CGPA": 7.7,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102055",
+    "Name": "Nisha Kumari",
+    "SGPA": "8.9000",
+    "CGPA": 7.95,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102056",
+    "Name": "Pankaj Saharan",
+    "SGPA": "6.9000",
+    "CGPA": 0,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102057",
+    "Name": "Shubham Alyan",
+    "SGPA": "8.3000",
+    "CGPA": 7.8,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102058",
+    "Name": "Guruveer Singh",
+    "SGPA": "8.9500",
+    "CGPA": 7.8,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102059",
+    "Name": "Pranav Kumar",
+    "SGPA": "9.9000",
+    "CGPA": 9.433333333333334,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102060",
+    "Name": "Sanyam Singh",
+    "SGPA": "8.5500",
+    "CGPA": 7.366666666666666,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102061",
+    "Name": "Praveen Meghwal",
+    "SGPA": "Re. CSPC-209 (Int)",
+    "CGPA": 0,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102062",
+    "Name": "Priya Ranjan Kumar",
+    "SGPA": "6.4500",
+    "CGPA": 0,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102063",
+    "Name": "Eslavath Srivalli",
+    "SGPA": "7.8500",
+    "CGPA": 7.433333333333334,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102064",
+    "Name": "Pradeep Kumar Sharma",
+    "SGPA": "8.1000",
+    "CGPA": 7.8,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102065",
+    "Name": "Rishav Raj",
+    "SGPA": "9.1000",
+    "CGPA": 8.983333333333333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102066",
+    "Name": "Sachin Kumar",
+    "SGPA": "9.3500",
+    "CGPA": 8.483333333333333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102067",
+    "Name": "Suryanshu",
+    "SGPA": "Re. CSPC-201 (Int + End) CSPC-203 (End)",
+    "CGPA": 0,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102068",
+    "Name": "Ashtangika Sanjay Damodar",
+    "SGPA": "5.6000",
+    "CGPA": 0,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102069",
+    "Name": "Yash Kumar",
+    "SGPA": "9.0500",
+    "CGPA": 8.666666666666666,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102070",
+    "Name": "Ritik Yadav",
+    "SGPA": "7.9000",
+    "CGPA": 7.683333333333334,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102071",
+    "Name": "Rahul",
+    "SGPA": "7.6000",
+    "CGPA": 7.133333333333334,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102072",
+    "Name": "Vaibhav Kamboj",
+    "SGPA": "9.9000",
+    "CGPA": 9.35,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102073",
+    "Name": "Gourish Prajapati",
+    "SGPA": "9.2000",
+    "CGPA": 8.35,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102074",
+    "Name": "Kavya Sen",
+    "SGPA": "9.3500",
+    "CGPA": 8.966666666666667,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102075",
+    "Name": "Yogesh Kumar",
+    "SGPA": "10.0000",
+    "CGPA": 9.433333333333334,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102076",
+    "Name": "Aarav Nautiyal",
+    "SGPA": "7.3000",
+    "CGPA": 7.166666666666667,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102077",
+    "Name": "Amandeep Chopra",
+    "SGPA": "9.5500",
+    "CGPA": 8.5,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102078",
+    "Name": "Vedant Sagwal",
+    "SGPA": "9.5500",
+    "CGPA": 9.15,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102079",
+    "Name": "Sumit Kalia",
+    "SGPA": "9.1000",
+    "CGPA": 8.366666666666667,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102080",
+    "Name": "Itesh Kumar",
+    "SGPA": "9.2500",
+    "CGPA": 8.25,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102081",
+    "Name": "Harsh",
+    "SGPA": "7.3500",
+    "CGPA": 7.4,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102082",
+    "Name": "Deepanshu",
+    "SGPA": "9.0500",
+    "CGPA": 8.466666666666667,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102083",
+    "Name": "Sanchit",
+    "SGPA": "6.7000",
+    "CGPA": 6.533333333333333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102084",
+    "Name": "Ayush Kalonia",
+    "SGPA": "8.4000",
+    "CGPA": 8.0,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102085",
+    "Name": "Ojasvi Singh",
+    "SGPA": "9.5500",
+    "CGPA": 8.883333333333333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102086",
+    "Name": "Gaurav Kumar",
+    "SGPA": "9.6000",
+    "CGPA": 9.2,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102087",
+    "Name": "Aayush Yadav",
+    "SGPA": "8.1500",
+    "CGPA": 7.7,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102088",
+    "Name": "Pawan Kumar Verma",
+    "SGPA": "9.1500",
+    "CGPA": 8.45,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102089",
+    "Name": "Dimpy",
+    "SGPA": "8.9000",
+    "CGPA": 8.166666666666666,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102090",
+    "Name": "Dhruv Malhotra",
+    "SGPA": "9.8500",
+    "CGPA": 9.716666666666667,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102091",
+    "Name": "Mahi",
+    "SGPA": "8.9500",
+    "CGPA": 8.483333333333333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102092",
+    "Name": "Sandhya Rani Jam",
+    "SGPA": "9.5500",
+    "CGPA": 9.333333333333334,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102093",
+    "Name": "Anuj",
+    "SGPA": "9.6000",
+    "CGPA": 9.083333333333334,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102094",
+    "Name": "Kapil Kumar Poonia",
+    "SGPA": "8.3000",
+    "CGPA": 7.783333333333333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102095",
+    "Name": "Himanshi Yadav",
+    "SGPA": "8.6500",
+    "CGPA": 8.183333333333334,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102096",
+    "Name": "Heena",
+    "SGPA": "9.5500",
+    "CGPA": 8.55,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102097",
+    "Name": "Khushi",
+    "SGPA": "9.5000",
+    "CGPA": 8.666666666666666,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102098",
+    "Name": "Dasari Jaya Pravallika",
+    "SGPA": "7.3000",
+    "CGPA": 6.666666666666667,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102099",
+    "Name": "Ratnesh Yadav",
+    "SGPA": "8.9000",
+    "CGPA": 7.983333333333333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102100",
+    "Name": "Dipanshu",
+    "SGPA": "9.0500",
+    "CGPA": 8.233333333333333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102101",
+    "Name": "Khushi Yadav",
+    "SGPA": "9.5000",
+    "CGPA": 9.1,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102102",
+    "Name": "Purva Soni",
+    "SGPA": "9.6000",
+    "CGPA": 8.883333333333333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102103",
+    "Name": "Ayan Panwar",
+    "SGPA": "9.7500",
+    "CGPA": 9.4,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102104",
+    "Name": "Nikhil Anand",
+    "SGPA": "9.4500",
+    "CGPA": 9.083333333333334,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102105",
+    "Name": "Ayush Tiwari",
+    "SGPA": "10.0000",
+    "CGPA": 9.516666666666667,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102106",
+    "Name": "Aadrash",
+    "SGPA": "8.8500",
+    "CGPA": 8.216666666666667,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102107",
+    "Name": "Sruthi Suresh",
+    "SGPA": "7.3000",
+    "CGPA": 0,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102108",
+    "Name": "Kunal Kumar Garg",
+    "SGPA": "9.8500",
+    "CGPA": 9.35,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102109",
+    "Name": "Avichal Goyal",
+    "SGPA": "9.5500",
+    "CGPA": 9.133333333333333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102110",
+    "Name": "Shakshi Yadav",
+    "SGPA": "10.0000",
+    "CGPA": 9.45,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102111",
+    "Name": "Shubham Gupta",
+    "SGPA": "9.3500",
+    "CGPA": 8.9,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102112",
+    "Name": "Saurabh Sehra",
+    "SGPA": "8.2500",
+    "CGPA": 7.416666666666667,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102113",
+    "Name": "Chandu Sri Ram Dileep",
+    "SGPA": "8.7500",
+    "CGPA": 7.716666666666667,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102114",
+    "Name": "Tanmay Singh",
+    "SGPA": "9.6500",
+    "CGPA": 9.6,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102115",
+    "Name": "Krishna Aggarwal",
+    "SGPA": "9.8500",
+    "CGPA": 9.633333333333333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102116",
+    "Name": "Nitesh Agarwal",
+    "SGPA": "9.8000",
+    "CGPA": 9.2,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102117",
+    "Name": "Harmanjieet Singh Kalsi",
+    "SGPA": "9.8500",
+    "CGPA": 9.583333333333334,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102118",
+    "Name": "Palak Pareta",
+    "SGPA": "8.6500",
+    "CGPA": 8.433333333333334,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102119",
+    "Name": "Anupam Arya",
+    "SGPA": "10.0000",
+    "CGPA": 9.45,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102120",
+    "Name": "Harsh Sethi",
+    "SGPA": "9.6000",
+    "CGPA": 8.8,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102121",
+    "Name": "Vidit Gupta",
+    "SGPA": "9.8000",
+    "CGPA": 9.583333333333334,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102122",
+    "Name": "Divyam Jain",
+    "SGPA": "10.0000",
+    "CGPA": 9.38,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102123",
+    "Name": "Nakul Gautam",
+    "SGPA": "9.3000",
+    "CGPA": 8.7,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102124",
+    "Name": "Rishi Kumar",
+    "SGPA": "9.6000",
+    "CGPA": 9.183333333333334,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102125",
+    "Name": "Harshit Rai",
+    "SGPA": "10.0000",
+    "CGPA": 9.816666666666666,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102126",
+    "Name": "Shivansh Mehra",
+    "SGPA": "10.0000",
+    "CGPA": 9.883333333333333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102127",
+    "Name": "Ram Kinkar",
+    "SGPA": "9.8000",
+    "CGPA": 9.3667,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102128",
+    "Name": "Saksham",
+    "SGPA": "9.5000",
+    "CGPA": 9.1167,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102129",
+    "Name": "Vineet Kumar",
+    "SGPA": "9.1500",
+    "CGPA": 8.7667,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102130",
+    "Name": "Nikhil Sharma",
+    "SGPA": "10.0000",
+    "CGPA": 9.7500,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102131",
+    "Name": "Naveen",
+    "SGPA": "9.8500",
+    "CGPA": 9.3167,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102132",
+    "Name": "Rajat",
+    "SGPA": "9.7500",
+    "CGPA": 8.9000,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102133",
+    "Name": "Mohak Mittal",
+    "SGPA": "10.0000",
+    "CGPA": 9.3833,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102134",
+    "Name": "Sanskar Kansal",
+    "SGPA": "9.5500",
+    "CGPA": 9.3833,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102135",
+    "Name": "Yash Gupta",
+    "SGPA": "9.8000",
+    "CGPA": 9.3167,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102136",
+    "Name": "Divya",
+    "SGPA": "9.7500",
+    "CGPA": 9.1500,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102137",
+    "Name": "Aryaman Suvaksh",
+    "SGPA": "10.0000",
+    "CGPA": 9.7333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102138",
+    "Name": "Ayush Bansal",
+    "SGPA": "9.8500",
+    "CGPA": 9.3833,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102139",
+    "Name": "Sahil",
+    "SGPA": "9.4000",
+    "CGPA": 8.4833,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102140",
+    "Name": "Ayush",
+    "SGPA": "9.7000",
+    "CGPA": 9.1667,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102141",
+    "Name": "Nirmalya Chatterjee",
+    "SGPA": "9.3500",
+    "CGPA": 8.5833,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102142",
+    "Name": "Narkedumilli Shammukha Asish",
+    "SGPA": "8.1500",
+    "CGPA": 7.7333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102143",
+    "Name": "Mallavelli Manohar Krishna",
+    "SGPA": "8.5000",
+    "CGPA": 8.5667,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102144",
+    "Name": "Chintan Poonia",
+    "SGPA": "9.6500",
+    "CGPA": 9.3667,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102145",
+    "Name": "Upkar Middha",
+    "SGPA": "9.1500",
+    "CGPA": 8.4333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102146",
+    "Name": "Abhay Goel",
+    "SGPA": "9.9000",
+    "CGPA": 9.6000,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102147",
+    "Name": "Tanvi",
+    "SGPA": "9.6500",
+    "CGPA": 9.3333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102148",
+    "Name": "Keshav Verma",
+    "SGPA": "9.4000",
+    "CGPA": 9.0167,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102149",
+    "Name": "Vyom Bajaj",
+    "SGPA": "9.6500",
+    "CGPA": 9.2333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102150",
+    "Name": "Dhanekula Shanwanth",
+    "SGPA": "8.9500",
+    "CGPA": 8.7000,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102151",
+    "Name": "Kamal Garg",
+    "SGPA": "9.5000",
+    "CGPA": 9.2333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102152",
+    "Name": "Aakash Verma",
+    "SGPA": "9.8000",
+    "CGPA": 9.6167,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102153",
+    "Name": "Ronit Lamba",
+    "SGPA": "9.6500",
+    "CGPA": 9.2000,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102154",
+    "Name": "Suryansh Rathore",
+    "SGPA": "9.9000",
+    "CGPA": 8.9333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102155",
+    "Name": "Dhruv Kumar Sharma",
+    "SGPA": "9.0500",
+    "CGPA": 8.3500,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102156",
+    "Name": "Prince Kumar",
+    "SGPA": "7.1000",
+    "CGPA": 7.3000,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102157",
+    "Name": "Hardik Kharb",
+    "SGPA": "9.8000",
+    "CGPA": 9.3167,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102158",
+    "Name": "Rizul Gupta",
+    "SGPA": "9.6000",
+    "CGPA": 9.0667,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102159",
+    "Name": "Aditya Partap",
+    "SGPA": "9.5500",
+    "CGPA": 9.0333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102160",
+    "Name": "Parvej Alam",
+    "SGPA": "9.4000",
+    "CGPA": 8.9000,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102161",
+    "Name": "Sanjay Grover",
+    "SGPA": "9.8500",
+    "CGPA": 9.4833,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102162",
+    "Name": "Pragya Thakur",
+    "SGPA": "10.0000",
+    "CGPA": 9.6333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102163",
+    "Name": "Saurav Kumar",
+    "SGPA": "Re. CSPC-205 (End)",
+    "CGPA": 0,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102164",
+    "Name": "Nitika",
+    "SGPA": "9.9000",
+    "CGPA": 9.4833,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102165",
+    "Name": "Ananya Chaturvedi",
+    "SGPA": "8.7500",
+    "CGPA": 9.1333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102166",
+    "Name": "Piyush Jaiswal",
+    "SGPA": "9.2000",
+    "CGPA": 8.4333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102167",
+    "Name": "Navneet Kaur",
+    "SGPA": "9.2000",
+    "CGPA": 8.3833,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102168",
+    "Name": "Isham",
+    "SGPA": "10.0000",
+    "CGPA": 9.3833,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102169",
+    "Name": "Muskan",
+    "SGPA": "9.3500",
+    "CGPA": 9.0833,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102170",
+    "Name": "Mukul Taneja",
+    "SGPA": "9.1000",
+    "CGPA": 8.7500,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102171",
+    "Name": "Chaudhary Raj Pratap",
+    "SGPA": "9.4000",
+    "CGPA": 8.7000,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102172",
+    "Name": "Satyam",
+    "SGPA": "9.2000",
+    "CGPA": 8.4833,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102173",
+    "Name": "Sameer",
+    "SGPA": "8.0500",
+    "CGPA": 7.8833,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102174",
+    "Name": "Aparna Kumari",
+    "SGPA": "9.1000",
+    "CGPA": 9.1333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102175",
+    "Name": "Tanishka Gupta",
+    "SGPA": "9.8500",
+    "CGPA": 9.4833,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102176",
+    "Name": "Mithil Adapa",
+    "SGPA": "Re.CSPC-201 (End)",
+    "CGPA": 0,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102177",
+    "Name": "Raghvi Gupta",
+    "SGPA": "10.0000",
+    "CGPA": 9.6833,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102178",
+    "Name": "Priyanka Garhwal",
+    "SGPA": "9.5000",
+    "CGPA": 8.8167,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102179",
+    "Name": "Ankit Gupta",
+    "SGPA": "9.8500",
+    "CGPA": 9.1333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102180",
+    "Name": "Kumar Priyam",
+    "SGPA": "9.8500",
+    "CGPA": 9.4333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102181",
+    "Name": "Ashita Pahwa",
+    "SGPA": "9.6500",
+    "CGPA": 9.1833,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102182",
+    "Name": "Himanshu Jain",
+    "SGPA": "8.8000",
+    "CGPA": 7.8333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102183",
+    "Name": "Bhavit Mittal",
+    "SGPA": "9.6500",
+    "CGPA": 8.5500,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102184",
+    "Name": "Parth Sharma",
+    "SGPA": "10.0000",
+    "CGPA": 9.0333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102185",
+    "Name": "Prabhat Kumar",
+    "SGPA": "9.0000",
+    "CGPA": 8.2833,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102186",
+    "Name": "Vikas Patel",
+    "SGPA": "7.9500",
+    "CGPA": 7.5833,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102187",
+    "Name": "Visariya Urmil Vinod",
+    "SGPA": "9.8000",
+    "CGPA": 9.3667,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102188",
+    "Name": "Kamal Sharma",
+    "SGPA": "8.9000",
+    "CGPA": 8.3000,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102189",
+    "Name": "Roshan Kumar Meena",
+    "SGPA": "Re.CSPC-201 (Int + End) CSPC-205 (End)",
+    "CGPA": 0,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102190",
+    "Name": "Aniket Gupta",
+    "SGPA": "9.1000",
+    "CGPA": 8.8500,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102191",
+    "Name": "Yash Pratap",
+    "SGPA": "Re. MAIC-201 (Int + End) CSPC-201 (Int + End) CSPC-203 (Int + End) CSPC-205 (Int + End) CSPC-207 (Int + End) CSPC-209 (Int + End)",
+    "CGPA": 0,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102192",
+    "Name": "Aarsh Garg",
+    "SGPA": "9.8000",
+    "CGPA": 9.5667,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102193",
+    "Name": "Shivanshu Sajwan",
+    "SGPA": "9.8500",
+    "CGPA": 9.4000,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102194",
+    "Name": "Divye Maloo",
+    "SGPA": "9.5000",
+    "CGPA": 8.9833,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102195",
+    "Name": "Rohit Yadav",
+    "SGPA": "8.7000",
+    "CGPA": 8.1500,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102196",
+    "Name": "Chhaya Chaudhary",
+    "SGPA": "9.2000",
+    "CGPA": 7.8500,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102197",
+    "Name": "Digvijay Singh",
+    "SGPA": "8.8500",
+    "CGPA": 8.2000,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102198",
+    "Name": "Ritesh Kumar",
+    "SGPA": "10.0000",
+    "CGPA": 9.1500,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102199",
+    "Name": "Priya Yadav",
+    "SGPA": "9.9000",
+    "CGPA": 9.6000,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102200",
+    "Name": "Sparsh Chaurasiya",
+    "SGPA": "6.8000",
+    "CGPA": 6.7000,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102201",
+    "Name": "Vivek Mandal",
+    "SGPA": "7.3000",
+    "CGPA": 7.2667,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102202",
+    "Name": "Yerukali Naveen",
+    "SGPA": "Re. MAIC-201 (End) CSPC-201 (Int + End) CSPC-203 (End) CSPC-205 (Int + End) CSPC-207 (End)",
+    "CGPA": 0,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102203",
+    "Name": "Vivek Kumar",
+    "SGPA": "6.6000",
+    "CGPA": 6.6333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102204",
+    "Name": "Karan Mundri",
+    "SGPA": "9.1500",
+    "CGPA": 8.5333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102205",
+    "Name": "Samkit Bansal",
+    "SGPA": "9.4000",
+    "CGPA": 8.3333,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102206",
+    "Name": "Sanjay Dhaka",
+    "SGPA": "8.4000",
+    "CGPA": 7.4000,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123102207",
+    "Name": "Amit Kumar Saket",
+    "SGPA": "Re. CSPC-205 (End)",
+    "CGPA": 0,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123302001",
+    "Name": "Sanya Gupta",
+    "SGPA": "8.4000",
+    "CGPA": 7.8000,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123302002",
+    "Name": "Manav Singh",
+    "SGPA": "9.2000",
+    "CGPA": 8.0000,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123302003",
+    "Name": "Faaris Quamar",
+    "SGPA": "Re. CSPC-203 (End) CSPC-205 (End)",
+    "CGPA": 0,
+    "Branch": "CSE",
+    "Year": 2023
+  },
+  {
+    "Roll No": "123302005",
+    "Name": "Rajvansh Malhotra",
+    "SGPA": "8.4500",
+    "CGPA": 7.9167,
+    "Branch": "CSE",
+    "Year": 2023
+  }
+]
