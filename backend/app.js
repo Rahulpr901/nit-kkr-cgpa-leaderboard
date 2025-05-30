@@ -5,6 +5,12 @@ const cors = require('cors');
 //middleware for enabling Cross-Origin Resource Sharing (CORS) 
 const Student = require('./cgmodel');
 const app = express();
+const corsOptions = {
+  origin:process.env.FRONTEND_URL,
+  methods: ['GET', 'POST', 'PUT', 'DELETE'],
+  allowedHeaders: ['Content-Type']
+};
+app.use(cors(corsOptions)); // Replace your current app.use(cors())
 app.use(cors());//enable cors for all routes
 app.use(express.json());
 // Connect to MongoDB
