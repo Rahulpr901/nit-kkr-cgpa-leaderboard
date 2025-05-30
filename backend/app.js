@@ -11,7 +11,6 @@ const corsOptions = {
   allowedHeaders: ['Content-Type']
 };
 app.use(cors(corsOptions)); // Replace your current app.use(cors())
-app.use(cors());//enable cors for all routes
 app.use(express.json());
 // Connect to MongoDB
 mongoose.connect(process.env.MONGO_URL)
