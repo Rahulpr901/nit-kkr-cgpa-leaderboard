@@ -106,7 +106,7 @@ function App() {
             ) : (
               <tr>
                 <td colSpan="6" className="text-center p-4">
-                  Will be available soon!Currently data is available for 2023 batch (CSE,IT,MnC, AIML) only.
+                  Will be available soon!Currently data is available for 2023 batch CSE,IT,MnC, AIML only.
                 </td>
               </tr>
             )}
